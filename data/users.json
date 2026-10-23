@@ -1,0 +1,10 @@
+[
+  {
+    "id": "81893a11-4b8c-40e1-8003-4580e6134b6a",
+    "username": "prueba",
+    "email": "prueba@ejemplo.com",
+    "passwordHash": "$2b$10$JWG1WrCQ0i760in9BryAouY2we5XVtzOMNsD2WYfACHVIldS4jo2O",
+    "verified": true,
+    "createdAt": "2026-10-23T17:20:17.407Z"
+  }
+]
